@@ -8,11 +8,7 @@ Recentemente fiz uma apresentação sobre push notifications no trabalho e isso 
 
 Push notifications são notificações as notificações que você recebe no seu dispositivo mobile que geralmente vem de algum aplicativo instalado. Ela é composta por título, ícone, mensagem, *Timestamp* (desde que foi recebida) e *Call to action* (Permitem tomar alguma ação dentro do app sem precisar entrar no mesmo).
 
-<<<<<<< HEAD
 ![Push notification image](https://raw.githubusercontent.com/pdrzan/articles/refs/heads/master/01_push_notifications/images/push_notification.png)
-=======
-![Push notification image](https://raw.githubusercontent.com/pdrzan/articles/refs/heads/main/01_push_notifications/images/push_notification.png)
->>>>>>> 68c6efe6d1f21aac83e39a77b4e59e7108975510
 
 ## Porque usar push notifications
 
